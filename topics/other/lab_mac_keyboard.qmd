@@ -1,0 +1,22 @@
+---
+title:  'Keyboard Guide'
+subtitle: "Key combinations for a Mac keyboard"
+date: ""
+format: html
+---
+
+**Normal**  
+
+![](assets/mac_keyboard_normal.jpg)
+
+**Holding shift**  
+
+![](assets/mac_keyboard_shift.jpg)
+
+**Holding alt**  
+
+![](assets/mac_keyboard_alt.jpg)
+
+**Holding alt+shift**
+
+![](assets/mac_keyboard_shitfAlt.jpg)

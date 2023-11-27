@@ -1,0 +1,40 @@
+---
+pageTitle: "NBIS Workshop | Introduction to Bioinformatics using NGS data"
+title: ""
+subtitle: ""
+format:
+  html:
+    css: "assets/css/home.css"
+    number-sections: false
+    toc: false
+    date: ""
+    page-layout: full
+    title-block-banner: false
+---
+
+<!-- div class="page-layout-custom" -->
+<div class='home-grid-parent'>
+<div class='home-grid-child-left'>
+
+#### NBIS Workshop
+## Introduction To Bioinformatics<br>Using NGS Data
+
+::: {.large}
+- Working on the Linux command line
+- Sequence data formats and QC
+- DNA variant calling workflow
+- RNA sequence analyses workflow
+:::
+
+::: small
+Updated: <?lua.date?> at <?lua.time?>.
+:::
+
+</div>
+<div class='home-grid-child-right'>
+
+![](assets/images/landing.png)
+
+</div>
+</div>
+<!--/div-->
